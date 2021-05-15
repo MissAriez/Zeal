@@ -1,0 +1,8 @@
+## Ignore env
+.env
+
+## Ignore discordia.log
+*.log
+
+## Ignore database
+db
